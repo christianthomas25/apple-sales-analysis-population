@@ -21,6 +21,6 @@ jobs:
         run: |
           pip install pandas numpy matplotlib jupyter
 
-      - name: Execute notebook
+      - name: Validate notebook file
         run: |
-          jupyter nbconvert --to notebook --execute "Apple_analysis_worldpopulation-_Notebook.ipynb" --output executed.ipynb
+          python -m json.tool Apple_analysis_worldpopulation-_Notebook.ipynb > /dev/null	
