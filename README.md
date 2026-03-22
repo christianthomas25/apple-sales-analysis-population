@@ -27,13 +27,12 @@ This project aims to answer:
 
 ---
 
-## Key Insights
+## Key Results
 
-* **Product mix is the primary driver of revenue variation**
-* **Premium devices significantly increase transaction value**
-* **Direct Apple channels outperform third-party retail**
-* **Large markets (India, China) remain underpenetrated**, representing major growth potential
-
+- Product mix explains a significant share of revenue variation across markets
+- Premium devices drive higher transaction value and total revenue
+- Direct Apple channels outperform third-party retail channels
+- India and China identified as highest-growth opportunity markets
 ---
 
 ## Architecture
