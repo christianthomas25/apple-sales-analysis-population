@@ -1,4 +1,6 @@
-name: Project Check
+- name: Validate notebook file
+  run: |
+    python -m json.tool apple_sales_analysis.ipynb > /dev/nullname: Project Check
 
 on:
   push:
