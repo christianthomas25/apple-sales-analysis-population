@@ -1,3 +1,5 @@
+![Build Status](https://github.com/christianthomas25/apple-sales-analysis-population/actions/workflows/ci.yml/badge.svg)
+
 # Apple Global Sales Strategy & Data Architecture Analysis
 
 **IE University — Master in Business Analytics & Data Science (2026)**
